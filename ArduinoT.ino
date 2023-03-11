@@ -1,8 +1,5 @@
 //Number of pin that we are using in the microcontroller
 const int buzzer = 8 ; 
-
-
-
 // C++ code
 //
 void setup()
