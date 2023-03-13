@@ -15,12 +15,17 @@ https://www.tinkercad.com/things/cluFrIIMzNP-fabulous-borwo-juttuli/editel?tenan
 
 *INFO*
 INFO Relay : https://stadtfabrikanten.org/display/TH/Relay+JQC-3FF-S-Z
+
 Examples of code Micro+Sensor+Relay+ Motor: https://arduinogetstarted.com/tutorials/arduino-automatic-irrigation-system  
+
+BUZZER + MICROCONTROLLER > https://www.youtube.com/watch?v=IKD5Jhyg_cc
 Examples of code Micro+buzzer : https://docs.arduino.cc/built-in-examples/digital/toneMelody
+
 IOT CLOUD : https://www.youtube.com/watch?v=UFCmTZUoZ1M 
 Microcontroller + VisualStudio => At the moment we don´t have it when we have it we must do it =>
 https://www.youtube.com/watch?v=xL-sA76r2Fw
 https://www.youtube.com/watch?v=VfLTZcKCGfk
+
 
 
 SOIL MOISTURE SENSOR ? > CAPACITOR OR RESISTOR > CAPACITOR 
