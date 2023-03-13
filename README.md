@@ -21,3 +21,8 @@ IOT CLOUD : https://www.youtube.com/watch?v=UFCmTZUoZ1M
 Microcontroller + VisualStudio => At the moment we don´t have it when we have it we must do it =>
 https://www.youtube.com/watch?v=xL-sA76r2Fw
 https://www.youtube.com/watch?v=VfLTZcKCGfk
+
+
+SOIL MOISTURE SENSOR ? > CAPACITOR OR RESISTOR > CAPACITOR 
+info why capacitor: https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor?utm_content=cmp-true 
+info product : https://makerselectronics.com/product/capacitive-soil-moisture-sensor-v2-0
