@@ -31,3 +31,12 @@ https://www.youtube.com/watch?v=VfLTZcKCGfk
 SOIL MOISTURE SENSOR ? > CAPACITOR OR RESISTOR > CAPACITOR 
 info why capacitor: https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor?utm_content=cmp-true 
 info product : https://makerselectronics.com/product/capacitive-soil-moisture-sensor-v2-0
+
+
+
+INFO ABOUT > MOTOR
+
+https://www.robotique.tech/robotics/control-a-water-pump-by-arduino/
+https://arduinogetstarted.com/tutorials/arduino-controls-pump
+https://arduinogetstarted.com/tutorials/arduino-automatic-irrigation-system
+https://www.bing.com/videos/search?q=Control+a+water+pump+by+Arduino+system+in+tinkercad&docid=603510215840897677&mid=E9AE96D921A88244E0E5E9AE96D921A88244E0E5&view=detail&FORM=VIRE
